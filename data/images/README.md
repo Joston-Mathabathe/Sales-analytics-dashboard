@@ -1,0 +1,3 @@
+# Images
+
+This folder stores charts generated during the analysis.
