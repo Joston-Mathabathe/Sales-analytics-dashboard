@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyses retail sales data from a Superstore dataset using Python. The aim is to identify sales trends, evaluate regional performance, and generate business insights that can support data-driven decision-making.
+This project analyses retail sales data from a Superstore dataset using Python. The aim is to identify sales trends, evaluate regional performance, and generate business insights that can support data-driven decision making.
 
 ---
 
